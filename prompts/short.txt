@@ -1,0 +1,1 @@
+Explain what a queue is in three short sentences for someone who writes software.

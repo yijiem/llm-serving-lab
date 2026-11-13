@@ -1,0 +1,27 @@
+Read the following synthetic service notes.
+
+Note 1: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 2: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 3: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 4: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 5: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 6: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 7: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 8: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 9: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 10: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 11: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Note 12: The Harbor service accepts small jobs over HTTP. A bounded queue holds work until a worker is available. Operators observe arrival rate, completed work, queue depth, and errors. During an incident, they compare timing data with configuration changes before deciding what caused a slowdown.
+
+Summarize the service in three short sentences.

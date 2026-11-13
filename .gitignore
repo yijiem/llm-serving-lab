@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.tools/
+.cache/
+models/
+runs/
+configs/environment.json
+.env
+.env.*
+*.pem
+*.key

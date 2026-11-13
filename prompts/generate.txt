@@ -1,0 +1,1 @@
+Write a numbered list of twenty practical checks for operating a small HTTP service. Use one brief sentence per item. Continue until the list is complete.
